@@ -2,7 +2,6 @@ import React from 'react'
 import { NavLink } from 'react-router-dom'
 import dashboardIcon from '../images/icons/dashboard-icon.svg'
 import navLogo from '../images/layout/Logo.svg'
-import { SquaresFour } from 'phosphor-react'
 import { Ticket } from 'phosphor-react'
 
 const Nav = () => {
